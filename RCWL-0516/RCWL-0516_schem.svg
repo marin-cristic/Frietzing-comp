@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" height="1.45986in" x="0px" enable-background="new 0 0 56.92 105.11" xmlns:xml="http://www.w3.org/XML/1998/namespace" y="0px" width="0.790556in" gorn="0" viewBox="0 0 56.92 105.11" id="Layer_1"  version="1.1" xml:space="preserve">
+    <desc >
+        <referenceFile >RCWL-0516_SCHEMATIC.svg</referenceFile>
+    </desc>
+    <metadata >
+        <sfw >
+            <slices />
+            <sliceSourceBounds height="105.299" x="-0.084" y="-105.252" width="57.169" bottomLeftOrigin="true" />
+        </sfw>
+    </metadata>
+    <g gorn="0.2" id="schematic" >
+        <rect stroke-width="0.9002" height="90.045" x="7.662" y="7.549" width="41.598" gorn="0.2.0" id="part_symbol" stroke-linecap="round"  fill="#FFFFFF" stroke="#010101"/>
+        <g gorn="0.2.1" id="pins" >
+            <line stroke-width="0.7" gorn="0.2.1.0" stroke-linecap="round" id="connector9pin" y1="97.701"  fill="none" y2="104.902" stroke-linejoin="round" x1="28.46" x2="28.46" stroke="#565656"/>
+            <rect stroke-width="0" height="0.01580199999999999" x="28.4593" y="105.244099" width="0.001400000000000006" gorn="0.2.1.1" id="connector9terminal"  fill="none" stroke="none"/>
+            <line stroke-width="0.7" gorn="0.2.1.2" stroke-linecap="round" id="connector10pin" y1="29.104"  fill="none" y2="29.104" stroke-linejoin="round" x1="49.3" x2="56.71" stroke="#565656"/>
+            <rect stroke-width="0" height="0.001400000000000006" x="57.05189" y="29.1033" width="0.01622000000000001" gorn="0.2.1.3" id="connector10terminal"  fill="none" stroke="none"/>
+            <line stroke-width="0.7" gorn="0.2.1.4" stroke-linecap="round" id="connector11pin" y1="7.505"  fill="none" y2="0.304" stroke-linejoin="round" x1="28.476" x2="28.476" stroke="#565656"/>
+            <rect stroke-width="0" height="0.015802" x="28.4753" y="-0.05390099999999971" width="0.001400000000000006" gorn="0.2.1.5" id="connector11terminal"  fill="none" stroke="none"/>
+            <line stroke-width="0.7" gorn="0.2.1.6" stroke-linecap="round" id="connector8pin" y1="21.904"  fill="none" y2="21.908" stroke-linejoin="round" x1="49.276" x2="56.734" stroke="#565656"/>
+            <rect stroke-width="0" height="0.00140875067007935" x="57.07602929218479" y="21.90529562466496" width="0.01631675067007933" gorn="0.2.1.7" id="connector8terminal"  fill="none" stroke="none"/>
+            <line stroke-width="0.7" gorn="0.2.1.8" stroke-linecap="round" id="connector12pin" y1="21.904"  fill="none" y2="21.904" stroke-linejoin="round" x1="0.266" x2="7.676" stroke="#565656"/>
+            <rect stroke-width="0" height="0.001400000000000006" x="-0.09210999999999997" y="21.9033" width="0.01622" gorn="0.2.1.9" id="connector12terminal"  fill="none" stroke="none"/>
+        </g>
+        <g gorn="0.2.2" id="pin_numbers" >
+            <g  transform="matrix(0.9629 0 0 1 52.0635 20.4863)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="3" font-family="DroidSans">3</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 3.3999 20.3926)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="3" font-family="DroidSans">2</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 29.7734 4.2051)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="3" font-family="DroidSans">1</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 29.7734 102.0254)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="3" font-family="DroidSans">5</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 52.0625 27.5176)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="3" font-family="DroidSans">4</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g gorn="0.2.3" id="pin_labels" >
+            <g  transform="matrix(0.9629 0 0 1 24.4268 95.3164)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="4.5" font-family="DroidSans">GND</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 25.2944 12.8682)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="4.5" font-family="DroidSans">VIN</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 9.6445 23.0156)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="4.5" font-family="DroidSans">CDS</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 37.7305 30.3184)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="4.5" font-family="DroidSans">OUT</text>
+                    </g>
+                </g>
+            </g>
+            <g  transform="matrix(0.9629 0 0 1 39.1816 23.0156)">
+                <g >
+                    <g >
+                        <text  fill="#565656" font-size="4.5" font-family="DroidSans">3V3</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0.9629 0 0 1 13.7632 52.2656)">
+            <g >
+                <g >
+                    <g enable-background="new    " >
+                        <text x="0" y="0"  fill="#010101" font-size="6" font-family="DroidSans">RCWL-0516</text>
+                        <text x="7.369" y="7.2"  fill="#010101" font-size="6" font-family="DroidSans">Radar</text>
+                        <text x="5.288" y="14.4"  fill="#010101" font-size="6" font-family="DroidSans">Sensor </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
