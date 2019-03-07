@@ -1,213 +1,512 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" width="105.2" height="68.9" xml:space="preserve">
-<rect y="0" width="105.2" height="68.9"/>
-<g>
-	<g>
-
-			<circle id="connector5voplus" fill="#FFFFFF" stroke="#9A916C" stroke-width="1.8425" stroke-miterlimit="10" cx="81.5" cy="9.2" r="2"/>
-		<path display="none" fill="#FF0000" d="M80.8,11.7c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S81.8,11.7,80.8,11.7z"/>
-	</g>
-	<g>
-
-			<circle id="connector4vominus" fill="#FFFFFF" stroke="#9A916C" stroke-width="1.8425" stroke-miterlimit="10" cx="96" cy="9.2" r="2"/>
-		<path display="none" fill="#FF0000" d="M93.5,11.7c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S94.5,11.7,93.5,11.7z"/>
-	</g>
-	<g>
-
-			<circle id="connector3nc" fill="#FFFFFF" stroke="#9A916C" stroke-width="1.8425" stroke-miterlimit="10" cx="96" cy="60.2" r="2"/>
-		<path display="none" fill="#FF0000" d="M93.5,62.7c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S94.5,62.7,93.5,62.7z"/>
-	</g>
-	<g>
-
-			<circle id="connector2acl" fill="#FFFFFF" stroke="#9A916C" stroke-width="1.8425" stroke-miterlimit="10" cx="9.2" cy="60.2" r="2"/>
-		<path display="none" fill="#FF0000" d="M11.3,62.7c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S12.3,62.7,11.3,62.7z"/>
-	</g>
-	<g>
-		<path display="none" fill="#FF0000" d="M24.1,62.3c-0.7,0-1.4-0.4-1.4-1.4s0.7-1.4,1.4-1.4c0.7,0,1.4,0.4,1.4,1.4
-			C25.5,61.9,24.8,62.3,24.1,62.3z"/>
-
-			<circle id="connector1acn" fill="#FFFFFF" stroke="#9A916C" stroke-width="1.8425" stroke-miterlimit="10" cx="23.4" cy="60.2" r="2"/>
-	</g>
-</g>
-<g id="silkscreen">
-	<g>
-		<text transform="matrix(1 0 0 1 76.4063 5.3604)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">+</text>
-		<text transform="matrix(1 0 0 1 79.2783 5.3604)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">V</text>
-		<text transform="matrix(1 0 0 1 81.8086 5.3604)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">o</text>
-		<text transform="matrix(1 0 0 1 90.4063 5.3604)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">-</text>
-		<text transform="matrix(1 0 0 1 91.833 5.3604)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">V</text>
-		<text transform="matrix(1 0 0 1 94.3623 5.3604)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">o</text>
-		<text transform="matrix(1 0 0 1 5.0063 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<text transform="matrix(1 0 0 1 8.3911 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">C</text>
-		<text transform="matrix(1 0 0 1 11.6792 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">/</text>
-		<text transform="matrix(1 0 0 1 13.6235 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">L</text>
-		<text transform="matrix(1 0 0 1 19.0063 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<text transform="matrix(1 0 0 1 22.3911 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">C</text>
-		<text transform="matrix(1 0 0 1 25.6792 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">/</text>
-		<text transform="matrix(1 0 0 1 27.6235 57.9834)" fill="#FFFFFF" font-family="'ArialMT'" font-size="5.6693px">N</text>
-		<text transform="matrix(1 0 0 1 84.1914 63.1064)" fill="#FFFFFF" font-family="'ArialMT'" font-size="4.8189px">NC</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 4.2549 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">I</text>
-		<text transform="matrix(1 0 0 1 5.6099 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">N</text>
-		<text transform="matrix(1 0 0 1 9.3403 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">P</text>
-		<text transform="matrix(1 0 0 1 12.3564 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">U</text>
-		<text transform="matrix(1 0 0 1 16.0244 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">T</text>
-		<text transform="matrix(1 0 0 1 18.6943 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">:</text>
-		<text transform="matrix(1 0 0 1 19.8682 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 21.0698 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">1</text>
-		<text transform="matrix(1 0 0 1 23.978 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 26.8862 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 29.7944 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">-</text>
-		<text transform="matrix(1 0 0 1 31.5352 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">2</text>
-		<text transform="matrix(1 0 0 1 34.4434 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">4</text>
-		<text transform="matrix(1 0 0 1 37.3516 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 40.2598 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">V</text>
-		<text transform="matrix(1 0 0 1 43.1001 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<text transform="matrix(1 0 0 1 46.4849 21.0298)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">C</text>
-		<text transform="matrix(1 0 0 1 32.6982 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">I</text>
-		<text transform="matrix(1 0 0 1 34.7305 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">R</text>
-		<text transform="matrix(1 0 0 1 39.3057 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">M</text>
-		<text transform="matrix(1 0 0 1 46.1938 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">-</text>
-		<text transform="matrix(1 0 0 1 48.8042 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">0</text>
-		<text transform="matrix(1 0 0 1 53.167 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">3</text>
-		<text transform="matrix(1 0 0 1 57.5293 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">-</text>
-		<text transform="matrix(1 0 0 1 60.1396 11.9033)" fill="#C7B299" font-family="'ArialMT'" font-size="8.5039px">5</text>
-		<rect x="28" y="13" fill="#C7B299" width="44" height="1"/>
-		<g>
-			<rect x="5" y="5" fill="#C7B299" width="18" height="11"/>
-			<text transform="matrix(1 0 0 1 7.3076 11.7544)" font-family="'InformalRoman-Regular'" font-size="8.5039px">MW</text>
-			<rect x="6" y="13" width="16" height="3"/>
-			<text transform="matrix(1 0 0 1 6.8286 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">M</text>
-			<text transform="matrix(1 0 0 1 9.1074 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">E</text>
-			<text transform="matrix(1 0 0 1 10.5024 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">A</text>
-			<text transform="matrix(1 0 0 1 12.2368 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">N</text>
-			<text transform="matrix(1 0 0 1 14.1021 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px"> </text>
-			<text transform="matrix(1 0 0 1 14.6011 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">W</text>
-			<text transform="matrix(1 0 0 1 16.999 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">E</text>
-			<text transform="matrix(1 0 0 1 18.3936 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">L</text>
-			<text transform="matrix(1 0 0 1 19.7314 15.7856)" fill="#C7B299" font-family="'ArialMT'" font-size="2.8346px">L</text>
-		</g>
-		<text transform="matrix(1 0 0 1 58.3975 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">7</text>
-		<text transform="matrix(1 0 0 1 61.5503 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 64.7037 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">m</text>
-		<text transform="matrix(1 0 0 1 69.4258 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<text transform="matrix(1 0 0 1 72.8946 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 74.4698 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 76.045 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 77.6202 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">5</text>
-		<text transform="matrix(1 0 0 1 80.773 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 83.9258 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">/</text>
-		<text transform="matrix(1 0 0 1 85.501 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">6</text>
-		<text transform="matrix(1 0 0 1 88.6538 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 91.8072 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">H</text>
-		<text transform="matrix(1 0 0 1 95.9009 20.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">Z</text>
-		<text transform="matrix(1 0 0 1 58.3975 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">3</text>
-		<text transform="matrix(1 0 0 1 61.5503 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">5</text>
-		<text transform="matrix(1 0 0 1 64.7037 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">m</text>
-		<text transform="matrix(1 0 0 1 69.4258 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<text transform="matrix(1 0 0 1 72.8946 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 74.4698 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 76.045 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 77.6202 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">5</text>
-		<text transform="matrix(1 0 0 1 80.773 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 83.9258 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">/</text>
-		<text transform="matrix(1 0 0 1 85.501 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">6</text>
-		<text transform="matrix(1 0 0 1 88.6538 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 91.8072 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">H</text>
-		<text transform="matrix(1 0 0 1 95.9009 25.8066)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">Z</text>
-		<text transform="matrix(1 0 0 1 20.4126 25.8379)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">2</text>
-		<text transform="matrix(1 0 0 1 23.3208 25.8379)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">7</text>
-		<text transform="matrix(1 0 0 1 26.229 25.8379)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">7</text>
-		<text transform="matrix(1 0 0 1 29.1372 25.8379)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">V</text>
-		<text transform="matrix(1 0 0 1 31.9775 25.8379)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<text transform="matrix(1 0 0 1 35.3623 25.8379)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">C</text>
-		<text transform="matrix(1 0 0 1 4.2866 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">(</text>
-		<text transform="matrix(1 0 0 1 5.7358 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">2</text>
-		<text transform="matrix(1 0 0 1 8.353 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">7</text>
-		<text transform="matrix(1 0 0 1 10.9707 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">7</text>
-		<text transform="matrix(1 0 0 1 13.5879 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">V</text>
-		<text transform="matrix(1 0 0 1 16.1445 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">A</text>
-		<text transform="matrix(1 0 0 1 19.1904 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">C</text>
-		<text transform="matrix(1 0 0 1 22.1499 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px"> </text>
-		<text transform="matrix(1 0 0 1 23.2314 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">f</text>
-		<text transform="matrix(1 0 0 1 24.6548 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">o</text>
-		<text transform="matrix(1 0 0 1 27.4561 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">r</text>
-		<text transform="matrix(1 0 0 1 29.1245 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px"> </text>
-		<text transform="matrix(1 0 0 1 30.2061 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">N</text>
-		<text transform="matrix(1 0 0 1 33.5635 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">o</text>
-		<text transform="matrix(1 0 0 1 36.3647 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">r</text>
-		<text transform="matrix(1 0 0 1 38.1553 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">t</text>
-		<text transform="matrix(1 0 0 1 39.8442 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">h</text>
-		<text transform="matrix(1 0 0 1 42.6763 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px"> </text>
-		<text transform="matrix(1 0 0 1 43.7578 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">A</text>
-		<text transform="matrix(1 0 0 1 46.8652 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">m</text>
-		<text transform="matrix(1 0 0 1 51.1206 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">e</text>
-		<text transform="matrix(1 0 0 1 53.6768 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">r</text>
-		<text transform="matrix(1 0 0 1 55.3652 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">i</text>
-		<text transform="matrix(1 0 0 1 56.5596 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">c</text>
-		<text transform="matrix(1 0 0 1 58.8457 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">a</text>
-		<text transform="matrix(1 0 0 1 61.3047 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px"> </text>
-		<text transform="matrix(1 0 0 1 62.3857 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">o</text>
-		<text transform="matrix(1 0 0 1 65.1875 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">n</text>
-		<text transform="matrix(1 0 0 1 68.0195 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">l</text>
-		<text transform="matrix(1 0 0 1 69.2236 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">y</text>
-		<text transform="matrix(1 0 0 1 71.626 30.8691)" fill="#C7B299" font-family="'ArialMT'" font-size="5.1024px">)</text>
-		<text transform="matrix(1 0 0 1 3.7759 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">O</text>
-		<text transform="matrix(1 0 0 1 7.6821 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">U</text>
-		<text transform="matrix(1 0 0 1 11.3501 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">T</text>
-		<text transform="matrix(1 0 0 1 14.1675 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">P</text>
-		<text transform="matrix(1 0 0 1 17.1836 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">U</text>
-		<text transform="matrix(1 0 0 1 20.8516 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">T</text>
-		<text transform="matrix(1 0 0 1 23.522 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">:</text>
-		<text transform="matrix(1 0 0 1 24.6953 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 25.897 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 27.0991 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 28.3008 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 29.5024 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 30.7046 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 31.9063 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px"> </text>
-		<text transform="matrix(1 0 0 1 33.1079 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">5</text>
-		<text transform="matrix(1 0 0 1 36.0166 37.4219)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">V</text>
-		<path fill="#C7B299" d="M83.1,40.7c0-0.9,0-1.8-0.1-2.6c-1.5-0.3-3.1,0.1-4.3,1c-1.7,1.2-3,3.1-3.5,5.1C75.1,44.8,75,45.4,75,46
-			c0,1,0.1,2,0.4,3c0.1,0.2,0.2,0.5,0.3,0.7c0.4,1.1,0.9,2.2,1.6,3.2c0.2,0.3,0.5,0.5,0.7,0.8c0.3,0.3,0.7,0.5,1,0.8
-			c1.5,0.9,3.2,1.4,4.9,1.5c0.1-0.9,0.1-1.9-0.1-2.8c-1.6,0.1-3.1-0.4-4.3-1.4s-2-2.4-2.2-4c-0.2-0.1-0.2-0.3-0.3-0.5
-			c0-0.8-0.1-1.5,0.1-2.3c0.3-1.3,1.4-2.4,2.6-3c0.3-0.2,0.6-0.3,0.8-0.4C81.4,41,82.4,41.1,83.1,40.7z"/>
-		<path fill="#C7B299" d="M93,38.5c-2.2,0.9-3.8,2.9-4.5,5.1c-0.4,1.4-0.4,2.9-0.1,4.3c0.2,1.1,0.5,2.1,1.1,3
-			c0.3,0.4,0.6,0.8,0.9,1.2c0.6,0.7,1.1,1.3,1.8,1.9c1.5,1.1,3.3,1.7,5.1,1.6c-0.3-0.8-0.5-1.8-0.3-2.7c-2.9,0.3-5.8-2-6.3-4.9
-			c1.5-0.2,3-0.2,4.5,0.1c-0.2-0.4-0.1-0.9-0.1-1.3c0-0.4-0.1-1-0.5-1.2c-0.2-0.1-0.4-0.1-0.6-0.1c-1.1,0-2.1,0-3.2-0.1
-			c-0.1,0-0.2,0-0.2,0c-0.1-0.1-0.1-0.2-0.1-0.3c-0.2-1.2,0.8-2.2,1.6-3c0.1,0,0.1-0.1,0.1-0.1c0.8-0.8,1.9-1.6,2.9-1.2
-			c0.2,0.1,0.5,0.2,0.7,0.1c0.1-0.1,0.2-0.3,0.1-0.5c0-0.7,0.2-1.9-0.4-2.3C95.1,37.7,93.6,38.2,93,38.5z"/>
-		<text transform="matrix(1 0 0 1 35.4536 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">M</text>
-		<text transform="matrix(1 0 0 1 39.3281 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">W</text>
-		<text transform="matrix(1 0 0 1 43.4048 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">0</text>
-		<text transform="matrix(1 0 0 1 45.8765 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">2</text>
-		<text transform="matrix(1 0 0 1 48.3486 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px"> </text>
-		<text transform="matrix(1 0 0 1 49.3701 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">M</text>
-		<text transform="matrix(1 0 0 1 53.1963 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">A</text>
-		<text transform="matrix(1 0 0 1 56.1455 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">D</text>
-		<text transform="matrix(1 0 0 1 59.3545 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">E</text>
-		<text transform="matrix(1 0 0 1 61.7256 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px"> </text>
-		<text transform="matrix(1 0 0 1 62.7471 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">I</text>
-		<text transform="matrix(1 0 0 1 63.8994 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">N</text>
-		<text transform="matrix(1 0 0 1 67.0693 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px"> </text>
-		<text transform="matrix(1 0 0 1 68.0908 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">C</text>
-		<text transform="matrix(1 0 0 1 70.8857 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">H</text>
-		<text transform="matrix(1 0 0 1 74.0283 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">I</text>
-		<text transform="matrix(1 0 0 1 75.1797 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">N</text>
-		<text transform="matrix(1 0 0 1 78.3506 62.7539)" fill="#C7B299" font-family="'ArialMT'" font-size="4.8189px">A</text>
-		<text transform="matrix(1 0 0 1 20.3364 53.0527)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">17W42</text>
-		<text transform="matrix(1 0 0 1 63.4619 36.6729)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">0</text>
-		<text transform="matrix(1 0 0 1 66.6147 36.6729)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">.</text>
-		<text transform="matrix(1 0 0 1 68.1899 36.6729)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">6</text>
-		<text transform="matrix(1 0 0 1 71.3428 36.6729)" fill="#C7B299" font-family="'ArialMT'" font-size="5.6693px">A</text>
-		<rect x="47" y="34" fill="#C7B299" width="7" height="1"/>
-		<rect x="48" y="36" fill="#C7B299" width="1" height="1"/>
-		<rect x="50" y="36" fill="#C7B299" width="1" height="1"/>
-		<rect x="52" y="36" fill="#C7B299" width="1" height="1"/>
-		<text transform="matrix(1 0 0 1 20.1152 46.6348)" fill="#C7B299" font-family="'ArialMT'" font-size="11.3386px">LPS</text>
-	</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="105.2" y="0px"  version="1.2" id="Layer_1" x="0px" viewBox="0 0 105.2 68.9" baseProfile="tiny" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="68.9">
+    <desc>
+        <referenceFile>irm035v1_66ed6ec53d5c7215af82d18b384717ad_breadboard.svg</referenceFile>
+    </desc>
+    <rect width="105.2" y="0"  height="68.9"/>
+    <g >
+        <g >
+            <circle stroke-width="1.8425" fill="#FFFFFF" cy="9.2" r="2"  id="connector5voplus" cx="79.4" stroke-miterlimit="10" gorn="0.1.0.0" stroke="#9A916C"/>
+            <path display="none" fill="#FF0000"  d="M81.5,11c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S82.5,11,81.5,11z"/>
+        </g>
+        <g >
+            <circle stroke-width="1.8425" fill="#FFFFFF" cy="9.2" r="2"  id="connector4vominus" cx="96" stroke-miterlimit="10" gorn="0.1.1.0" stroke="#9A916C"/>
+            <path display="none" fill="#FF0000"  d="M96,11c-1,0-1.8-0.8-1.8-1.8S95,7.4,96,7.4s1.8,0.8,1.8,1.8S97,11,96,11z"/>
+        </g>
+        <g >
+            <circle stroke-width="1.8425" fill="#FFFFFF" cy="60.2" r="2"  id="connector3nc" cx="96" stroke-miterlimit="10" gorn="0.1.2.0" stroke="#9A916C"/>
+            <path display="none" fill="#FF0000"  d="M96,61.6c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4S96.8,61.6,96,61.6z"/>
+        </g>
+        <g >
+            <circle stroke-width="1.8425" fill="#FFFFFF" cy="60.2" r="2"  id="connector2acl" cx="9.2" stroke-miterlimit="10" gorn="0.1.3.0" stroke="#9A916C"/>
+            <path display="none" fill="#FF0000"  d="M9.2,61.6c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4C10.6,61,10,61.6,9.2,61.6z"/>
+        </g>
+        <g >
+            <circle stroke-width="1.8425" fill="#FFFFFF" cy="60.2" r="2"  id="connector1acn" cx="23.4" stroke-miterlimit="10" gorn="0.1.4.0" stroke="#9A916C"/>
+            <path display="none" fill="#FF0000"  d="M23.4,61.6c-0.7,0-1.4-0.4-1.4-1.4s0.7-1.4,1.4-1.4c0.7,0,1.4,0.4,1.4,1.4C24.8,61.2,24.1,61.6,23.4,61.6z"/>
+        </g>
+    </g>
+    <g  id="silkscreen" gorn="0.2">
+        <g >
+            <g  transform="matrix(1 0 0 1 76.4063 5.3604)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">+</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 79.2783 5.3604)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">V</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 81.8086 5.3604)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">o</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 90.4063 5.3604)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">-</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 91.833 5.3604)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">V</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 94.3623 5.3604)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">o</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 5.0063 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 8.3911 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">C</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 11.6792 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">/</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 13.6235 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">L</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 19.0063 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 22.3911 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">C</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 25.6792 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">/</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 27.6235 57.9834)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="5.6693">N</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 84.1914 63.1064)">
+                <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="4.8189">NC</text>
+            </g>
+        </g>
+        <g >
+            <g  transform="matrix(1 0 0 1 4.2549 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">I</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 5.6099 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">N</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 9.3403 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">P</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 12.3564 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">U</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 16.0244 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">T</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 18.6943 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">:</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 19.8682 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 21.0698 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">1</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 23.978 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 26.8862 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 29.7944 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">-</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 31.5352 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">2</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 34.4434 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">4</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 37.3516 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 40.2598 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">V</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 43.1001 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 46.4849 21.0298)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">C</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 32.6982 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">I</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 34.7305 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">R</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 39.3057 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">M</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 46.1938 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">-</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 48.8042 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 53.167 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">3</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 57.5293 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">-</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 60.1396 11.9033)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="8.5039">5</text>
+            </g>
+            <rect fill="#C7B299" width="44" y="13"  x="28" height="1"/>
+            <g >
+                <rect fill="#D41D00" width="18" y="5"  x="5" height="11"/>
+                <g  transform="matrix(1 0 0 1 7.3076 11.7544)">
+                    <text fill="#FFFFFF"  font-family="'DroidSans'" font-size="8.5039">MW</text>
+                </g>
+                <rect fill="#FFFFFF" width="16" y="13"  x="6" height="3"/>
+                <g  transform="matrix(1 0 0 1 6.8286 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">M</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 9.1074 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">E</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 10.5024 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">A</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 12.2368 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">N</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 14.1021 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346"/>
+                </g>
+                <g  transform="matrix(1 0 0 1 14.6011 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">W</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 16.999 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">E</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 18.3936 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">L</text>
+                </g>
+                <g  transform="matrix(1 0 0 1 19.7314 15.7856)">
+                    <text fill="#F41B00"  font-family="'DroidSans'" font-size="2.8346">L</text>
+                </g>
+            </g>
+            <g  transform="matrix(1 0 0 1 58.3975 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">7</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 61.5503 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 64.7037 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">m</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 69.4258 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 72.8946 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 74.4698 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 76.045 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 77.6202 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">5</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 80.773 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 83.9258 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">/</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 85.501 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">6</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 88.6538 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 91.8072 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">H</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 95.9009 20.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">Z</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 58.3975 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">3</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 61.5503 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">5</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 64.7037 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">m</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 69.4258 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 72.8946 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 74.4698 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 76.045 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 77.6202 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">5</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 80.773 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 83.9258 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">/</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 85.501 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">6</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 88.6538 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 91.8072 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">H</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 95.9009 25.8066)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">Z</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 20.4126 25.8379)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">2</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 23.3208 25.8379)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">7</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 26.229 25.8379)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">7</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 29.1372 25.8379)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">V</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 31.9775 25.8379)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 35.3623 25.8379)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">C</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 4.2866 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">(</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 5.7358 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">2</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 8.353 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">7</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 10.9707 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">7</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 13.5879 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">V</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 16.1445 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 19.1904 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">C</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 22.1499 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 23.2314 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">f</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 24.6548 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">o</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 27.4561 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">r</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 29.1245 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 30.2061 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">N</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 33.5635 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">o</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 36.3647 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">r</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 38.1553 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">t</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 39.8442 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">h</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 42.6763 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 43.7578 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 46.8652 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">m</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 51.1206 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">e</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 53.6768 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">r</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 55.3652 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">i</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 56.5596 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">c</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 58.8457 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">a</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 61.3047 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 62.3857 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">o</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 65.1875 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">n</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 68.0195 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">l</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 69.2236 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">y</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 71.626 30.8691)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.1024">)</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 3.7759 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">O</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 7.6821 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">U</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 11.3501 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">T</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 14.1675 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">P</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 17.1836 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">U</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 20.8516 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">T</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 23.522 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">:</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 24.6953 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 25.897 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 27.0991 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 28.3008 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 29.5024 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 30.7046 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 31.9063 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 33.1079 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">5</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 36.0166 37.4219)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">V</text>
+            </g>
+            <path fill="#C7B299"  d="M83.1,40.7c0-0.9,0-1.8-0.1-2.6c-1.5-0.3-3.1,0.1-4.3,1c-1.7,1.2-3,3.1-3.5,5.1C75.1,44.8,75,45.4,75,46c0,1,0.1,2,0.4,3c0.1,0.2,0.2,0.5,0.3,0.7c0.4,1.1,0.9,2.2,1.6,3.2c0.2,0.3,0.5,0.5,0.7,0.8c0.3,0.3,0.7,0.5,1,0.8c1.5,0.9,3.2,1.4,4.9,1.5c0.1-0.9,0.1-1.9-0.1-2.8c-1.6,0.1-3.1-0.4-4.3-1.4s-2-2.4-2.2-4c-0.2-0.1-0.2-0.3-0.3-0.5c0-0.8-0.1-1.5,0.1-2.3c0.3-1.3,1.4-2.4,2.6-3c0.3-0.2,0.6-0.3,0.8-0.4C81.4,41,82.4,41.1,83.1,40.7z"/>
+            <path fill="#C7B299"  d="M93,38.5c-2.2,0.9-3.8,2.9-4.5,5.1c-0.4,1.4-0.4,2.9-0.1,4.3c0.2,1.1,0.5,2.1,1.1,3c0.3,0.4,0.6,0.8,0.9,1.2c0.6,0.7,1.1,1.3,1.8,1.9c1.5,1.1,3.3,1.7,5.1,1.6c-0.3-0.8-0.5-1.8-0.3-2.7c-2.9,0.3-5.8-2-6.3-4.9c1.5-0.2,3-0.2,4.5,0.1c-0.2-0.4-0.1-0.9-0.1-1.3c0-0.4-0.1-1-0.5-1.2c-0.2-0.1-0.4-0.1-0.6-0.1c-1.1,0-2.1,0-3.2-0.1c-0.1,0-0.2,0-0.2,0c-0.1-0.1-0.1-0.2-0.1-0.3c-0.2-1.2,0.8-2.2,1.6-3c0.1,0,0.1-0.1,0.1-0.1c0.8-0.8,1.9-1.6,2.9-1.2c0.2,0.1,0.5,0.2,0.7,0.1c0.1-0.1,0.2-0.3,0.1-0.5c0-0.7,0.2-1.9-0.4-2.3C95.1,37.7,93.6,38.2,93,38.5z"/>
+            <g  transform="matrix(1 0 0 1 35.4536 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">M</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 39.3281 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">W</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 43.4048 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 45.8765 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">2</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 48.3486 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 49.3701 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">M</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 53.1963 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 56.1455 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">D</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 59.3545 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">E</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 61.7256 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 62.7471 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">I</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 63.8994 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">N</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 67.0693 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189"/>
+            </g>
+            <g  transform="matrix(1 0 0 1 68.0908 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">C</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 70.8857 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">H</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 74.0283 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">I</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 75.1797 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">N</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 78.3506 62.7539)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="4.8189">A</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 20.3364 53.0527)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">17W42</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 63.4619 36.6729)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">0</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 66.6147 36.6729)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">.</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 68.1899 36.6729)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">6</text>
+            </g>
+            <g  transform="matrix(1 0 0 1 71.3428 36.6729)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="5.6693">A</text>
+            </g>
+            <rect fill="#C7B299" width="7" y="34"  x="47" height="1"/>
+            <rect fill="#C7B299" width="1" y="36"  x="48" height="1"/>
+            <rect fill="#C7B299" width="1" y="36"  x="50" height="1"/>
+            <rect fill="#C7B299" width="1" y="36"  x="52" height="1"/>
+            <g  transform="matrix(1 0 0 1 20.1152 46.6348)">
+                <text fill="#C7B299"  font-family="'DroidSans'" font-size="11.3386">LPS</text>
+            </g>
+        </g>
+    </g>
 </svg>

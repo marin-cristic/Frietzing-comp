@@ -1,66 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny" id="svg3681" xmlns:xml="http://www.w3.org/XML/1998/namespace"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 110.9 72"
-	 xml:space="preserve">
-<desc>
-	<referenceFile>Irm-03-5-Schematic.svg</referenceFile>
-</desc>
-<g transform="matrix(1.227863,0,0,1.2108579,-37.077745,-1.3941377)">
-	<g>
-		<g>
-			<g>
-				<g>
-					<g id="g3683">
-						<g id="g3685">
-
-								<rect id="connector4vominus" x="114.4" y="13.5" fill-rule="evenodd" fill="#FFFFFF" stroke="#16FF00" stroke-linejoin="round" stroke-miterlimit="1.4142" width="5.8" height="0"/>
-							<rect id="connector4terminal" x="120.5" y="13.6" fill="none" width="0" height="0"/>
-
-								<rect id="connector5voplus" x="114.4" y="48.5" fill-rule="evenodd" fill="#FFFFFF" stroke="#16FF00" stroke-linejoin="round" stroke-miterlimit="1.4142" width="5.8" height="0"/>
-							<rect id="connector5terminal" x="120.5" y="48.5" fill="none" width="0" height="0"/>
-						</g>
-
-							<rect id="connector3nc" x="76.7" y="1.5" fill-rule="evenodd" fill="#0600FF" stroke="#0013FF" stroke-linejoin="round" stroke-miterlimit="1.4142" width="0" height="5.8"/>
-						<rect id="connector3terminal" x="76.7" y="1.2" fill="none" width="0" height="0"/>
-
-							<rect id="connector2acl" x="30.6" y="25.3" fill-rule="evenodd" fill="#0600FF" stroke="#0013FF" stroke-linejoin="round" stroke-miterlimit="1.4142" width="5.8" height="0"/>
-						<rect id="connector2terminal" x="30.2" y="25.3" fill="none" width="0" height="0"/>
-
-							<rect id="connector1acn" x="30.6" y="36.7" fill-rule="evenodd" fill="#0600FF" stroke="#0013FF" stroke-linejoin="round" stroke-miterlimit="1.4142" width="5.8" height="0"/>
-						<rect id="connector1terminal" x="30.2" y="36.7" fill="none" width="0" height="0"/>
-
-							<rect id="rect3695" x="36.9" y="8.1" fill-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.4142" width="77.1" height="45.8"/>
-						<g id="text3697">
-							<text transform="matrix(0.8259 0 0 0.8259 105.0229 15.2202)" font-family="'DroidSans'" font-size="5.7582px">-V</text>
-
-								<text id="tspan3699" transform="matrix(0.8259 0 0 0.8259 109.1117 15.2202)" font-family="'DroidSans'" font-size="5.7582px">o</text>
-						</g>
-						<g id="text3701">
-							<text transform="matrix(0.8259 0 0 0.8259 103.9333 49.6894)" font-family="'DroidSans'" font-size="5.7582px">+V</text>
-
-								<text id="tspan3703" transform="matrix(0.8259 0 0 0.8259 109.1117 49.6894)" font-family="'DroidSans'" font-size="5.7582px">o</text>
-						</g>
-						<text id="text3705" transform="matrix(0.8259 0 0 0.8259 59.1702 31.8705)" font-family="'DroidSans'" font-size="8.7868px">IRM-03-5</text>
-						<text transform="matrix(0.8259 0 0 0.8259 38.5285 26.8016)" font-family="'DroidSans'" font-size="5.2804px">A</text>
-						<text transform="matrix(0.8259 0 0 0.8259 41.1368 26.8016)" font-family="'DroidSans'" font-size="5.2804px">C</text>
-						<text transform="matrix(0.8259 0 0 0.8259 38.5285 37.733)" font-family="'DroidSans'" font-size="5.2804px">A</text>
-						<text transform="matrix(0.8259 0 0 0.8259 41.1368 37.733)" font-family="'DroidSans'" font-size="5.2804px">C</text>
-
-							<text id="text3717" transform="matrix(0.8259 0 0 0.8259 116.2793 46.3658)" fill="#555555" font-family="'DroidSans'" font-size="2.9061px">5</text>
-
-							<text id="text3715" transform="matrix(0.8259 0 0 0.8259 116.148 11.8216)" fill="#555555" font-family="'DroidSans'" font-size="2.9061px">4</text>
-
-							<text id="text3715_1_" transform="matrix(0.8259 0 0 0.8259 78.3087 5.1194)" fill="#555555" font-family="'DroidSans'" font-size="2.9061px">3</text>
-
-							<text id="text3711" transform="matrix(0.8259 0 0 0.8259 32.6227 23.6268)" fill="#555555" font-family="'DroidSans'" font-size="2.9061px">2</text>
-
-							<text id="text3713" transform="matrix(0.8259 0 0 0.8259 32.437 34.7328)" fill="#555555" font-family="'DroidSans'" font-size="2.9061px">1</text>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
-</g>
-<text id="text3709_1_" transform="matrix(1.014 0 0 1 52.7684 16.5644)" font-family="'DroidSans'" font-size="5.2804px">NC</text>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="110.9" y="0px"  version="1.2" id="svg3681" x="0px" viewBox="0 0 110.9 66.1" baseProfile="tiny" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="66.1">
+    <desc >
+        <referenceFile >Irm-03-5-Schematic.svg</referenceFile>
+    </desc>
+    <g  transform="matrix(1.227863,0,0,1.2108579,-37.077745,-1.3941377)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g  id="g3683" gorn="0.1.0.0.0.0.0.0">
+                                <g  id="g3685" gorn="0.1.0.0.0.0.0.0.0">
+                                    <polygon stroke-linejoin="round" points="114.4,13.5 120.2,13.5 120.2,13.5 " fill="#FFFFFF"  fill-rule="evenodd" id="connector4vominus" stroke-miterlimit="1.4142" gorn="0.1.0.0.0.0.0.0.0.0" stroke="#16FF00"/>
+                                    <polygon points="120.5,13.6 120.5,13.6 120.5,13.6 " fill="none"  id="connector4terminal" gorn="0.1.0.0.0.0.0.0.0.1"/>
+                                    <polygon stroke-linejoin="round" points="114.4,48.5 120.2,48.5 120.2,48.5 " fill="#FFFFFF"  fill-rule="evenodd" id="connector5voplus" stroke-miterlimit="1.4142" gorn="0.1.0.0.0.0.0.0.0.2" stroke="#16FF00"/>
+                                    <polygon points="120.5,48.5 120.5,48.5 120.5,48.5 " fill="none"  id="connector5terminal" gorn="0.1.0.0.0.0.0.0.0.3"/>
+                                    <rect stroke-linejoin="round" fill="#0600FF" width="0" y="1.5"  fill-rule="evenodd" id="connector3nc" x="76.7" stroke-miterlimit="1.4142" gorn="0.1.0.0.0.0.0.0.0.4" stroke="#0013FF" height="5.8"/>
+                                    <polygon points="76.7,1.2 76.7,1.2 76.7,1.2 " fill="none"  id="connector3terminal" gorn="0.1.0.0.0.0.0.0.0.5"/>
+                                    <polygon stroke-linejoin="round" points="30.6,25.3 36.4,25.3 36.4,25.3 " fill="#0600FF"  fill-rule="evenodd" id="connector2acl" stroke-miterlimit="1.4142" gorn="0.1.0.0.0.0.0.0.0.6" stroke="#0013FF"/>
+                                    <polygon points="30.2,25.3 30.2,25.3 30.2,25.3 " fill="none"  id="connector2terminal" gorn="0.1.0.0.0.0.0.0.0.7"/>
+                                    <polygon stroke-linejoin="round" points="30.6,36.7 36.4,36.7 36.4,36.7 " fill="#0600FF"  fill-rule="evenodd" id="connector1acn" stroke-miterlimit="1.4142" gorn="0.1.0.0.0.0.0.0.0.8" stroke="#0013FF"/>
+                                    <polygon points="30.2,36.7 30.2,36.7 30.2,36.7 " fill="none"  id="connector1terminal" gorn="0.1.0.0.0.0.0.0.0.9"/>
+                                </g>
+                                <rect stroke-linejoin="round" fill="#FFFFFF" width="77.1" y="8.1"  fill-rule="evenodd" stroke-linecap="round" id="rect3695" x="36.9" stroke-miterlimit="1.4142" gorn="0.1.0.0.0.0.0.0.1" stroke="#000000" height="45.8"/>
+                                <g  transform="matrix(0.8259 0 0 0.8259 105.0229 15.2206)">
+                                    <text  font-family="'DroidSans'" font-size="5.7585">-V</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 109.1117 15.2206)">
+                                    <text  font-family="'DroidSans'" id="tspan3699" gorn="0.1.0.0.0.0.0.0.3.0" font-size="5.7585">o</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 103.9333 49.6902)">
+                                    <text  font-family="'DroidSans'" font-size="5.7585">+V</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 109.1117 49.6902)">
+                                    <text  font-family="'DroidSans'" id="tspan3703" gorn="0.1.0.0.0.0.0.0.5.0" font-size="5.7585">o</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 59.1702 31.8713)">
+                                    <text  font-family="'DroidSans'" id="text3705" gorn="0.1.0.0.0.0.0.0.6.0" font-size="8.7872">IRM-03-5</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 38.5285 26.802)">
+                                    <text  font-family="'DroidSans'" font-size="5.2807">A</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 41.1368 26.802)">
+                                    <text  font-family="'DroidSans'" font-size="5.2807">C</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 38.5285 37.7338)">
+                                    <text  font-family="'DroidSans'" font-size="5.2807">A</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 41.1368 37.7338)">
+                                    <text  font-family="'DroidSans'" font-size="5.2807">C</text>
+                                </g>
+                                <g  transform="matrix(0.8374 0 0 0.8259 73.8175 16.5646)">
+                                    <text  font-family="'DroidSans'" id="text3709_1_" gorn="0.1.0.0.0.0.0.0.11.0" font-size="6.3938">NC</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 116.2793 46.3666)">
+                                    <text fill="#555555"  font-family="'DroidSans'" id="text3717" gorn="0.1.0.0.0.0.0.0.12.0" font-size="2.9062">5</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 116.148 11.822)">
+                                    <text fill="#555555"  font-family="'DroidSans'" id="text3715" gorn="0.1.0.0.0.0.0.0.13.0" font-size="2.9062">4</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 78.3092 5.12)">
+                                    <text fill="#555555"  font-family="'DroidSans'" id="text3715_1_" gorn="0.1.0.0.0.0.0.0.14.0" font-size="2.9062">3</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 32.6227 23.6272)">
+                                    <text fill="#555555"  font-family="'DroidSans'" id="text3711" gorn="0.1.0.0.0.0.0.0.15.0" font-size="2.9062">2</text>
+                                </g>
+                                <g  transform="matrix(0.8259 0 0 0.8259 32.437 34.7336)">
+                                    <text fill="#555555"  font-family="'DroidSans'" id="text3713" gorn="0.1.0.0.0.0.0.0.16.0" font-size="2.9062">1</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
