@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg3829" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 105.2 68.9"
+	 xml:space="preserve">
+<desc  id="desc3">
+	<referenceFile>IRM-03-5_pcb.svg</referenceFile>
+</desc>
+<g id="g7" transform="translate(0,-0.42519582)">
+	<g id="g9">
+		<g id="g11">
+			<g id="silkscreen">
+				<g id="text3355">
+					<text id="tspan3357" transform="matrix(1 0 0 1 19.726 57.0211)" font-family="'OCRA'" font-size="5.6693px">AC</text>
+				</g>
+				<g id="text10752">
+					<text id="tspan10754" transform="matrix(1 0 0 1 74.6214 17.9749)" font-family="'OCRA'" font-size="5.6693px">+Vo</text>
+				</g>
+				<g id="text10748">
+					<text id="tspan10750" transform="matrix(1 0 0 1 88.5849 17.9747)" font-family="'OCRA'" font-size="5.6693px">-Vo</text>
+				</g>
+				<g id="text10744">
+					<text id="tspan10746" transform="matrix(1 0 0 1 5.1865 57.0209)" font-family="'OCRA'" font-size="5.6693px">AC</text>
+				</g>
+				<g id="text10739">
+					<text id="tspan10743" transform="matrix(1 0 0 1 91.6865 56.7132)" font-family="'OCRA'" font-size="5.6693px">NC</text>
+				</g>
+				
+					<rect id="rect3832" y="0" fill="none" stroke="#000000" stroke-width="0.2835" stroke-linejoin="round" stroke-miterlimit="1.4142" width="105.2" height="68.9"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="copper1">
+	<g id="copper0">
+		
+			<circle id="connector1acn" fill="none" stroke="#FFBF00" stroke-width="1.8425" stroke-miterlimit="10" cx="23.4" cy="60.2" r="2"/>
+		
+			<circle id="connector2acl" fill="none" stroke="#FFBF00" stroke-width="1.8425" stroke-miterlimit="10" cx="9.2" cy="60.2" r="2"/>
+		<circle id="connector3nc" fill="none" stroke="#FFBF00" stroke-width="1.8425" stroke-miterlimit="10" cx="96" cy="60.2" r="2"/>
+		
+			<circle id="connector4vominus" fill="none" stroke="#FFBF00" stroke-width="1.8425" stroke-miterlimit="10" cx="96" cy="9.2" r="2"/>
+		
+			<circle id="connector5voplus" fill="none" stroke="#FFBF00" stroke-width="1.8425" stroke-miterlimit="10" cx="81.5" cy="9.2" r="2"/>
+	</g>
+</g>
+</svg>
