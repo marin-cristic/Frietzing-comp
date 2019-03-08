@@ -7,7 +7,7 @@
 	.st0{font-family:'OCRA';}
 	.st1{font-size:5.6693px;}
 	.st2{fill:none;stroke:#000000;stroke-width:0.2835;stroke-linejoin:round;stroke-miterlimit:1.4142;}
-	.st3{fill:none;stroke:#FFBF00;stroke-width:1.1339;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFBF00;stroke-width:1.438165856;stroke-miterlimit:10;}
 </style>
 <desc  id="desc3">
 	<referenceFile>IRM-03-5_pcb.svg</referenceFile>
@@ -62,11 +62,11 @@
 </g>
 <g id="copper1">
 	<g id="copper0">
-		<circle id="connector1acn" class="st3" cx="23" cy="59.8" r="1.6"/>
-		<circle id="connector2acl" class="st3" cx="8.8" cy="59.8" r="1.6"/>
-		<circle id="connector3nc" class="st3" cx="95.6" cy="59.8" r="1.6"/>
-		<circle id="connector4vominus" class="st3" cx="95.6" cy="8.8" r="1.6"/>
-		<circle id="connector5voplus" class="st3" cx="81.1" cy="8.8" r="1.6"/>
+		<circle id="connector1acn" class="st3" cx="23" cy="59.8" r="1.9809172"/>
+		<circle id="connector2acl" class="st3" cx="8.8" cy="59.8" r="1.9809172"/>
+		<circle id="connector3nc" class="st3" cx="95.6" cy="59.8" r="1.9809172"/>
+		<circle id="connector4vominus" class="st3" cx="95.6" cy="8.8" r="1.9809172"/>
+		<circle id="connector5voplus" class="st3" cx="81.1" cy="8.8" r="1.9809172"/>
 	</g>
 </g>
 </svg>

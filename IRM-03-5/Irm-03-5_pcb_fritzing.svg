@@ -58,15 +58,15 @@
 <g id="copper1">
 	<g id="copper0">
 
-			<circle id="connector1acn" fill="none" stroke="#FFBF00" stroke-width="1.4174" stroke-miterlimit="10" cx="28.6" cy="75.175" r="2"/>
+			<circle id="connector1acn" fill="none" stroke="#FFBF00" stroke-width="1.79770732" stroke-miterlimit="10" cx="28.6" cy="75.175" r="2.4761465"/>
 
-			<circle id="connector2acl" fill="none" stroke="#FFBF00" stroke-width="1.4174" stroke-miterlimit="10" cx="10.85" cy="75.175" r="2"/>
+			<circle id="connector2acl" fill="none" stroke="#FFBF00" stroke-width="1.79770732" stroke-miterlimit="10" cx="10.85" cy="75.175" r="2.4761465"/>
 
-			<circle id="connector3nc" fill="none" stroke="#FFBF00" stroke-width="1.4174" stroke-miterlimit="10" cx="119.35" cy="75.175" r="2"/>
+			<circle id="connector3nc" fill="none" stroke="#FFBF00" stroke-width="1.79770732" stroke-miterlimit="10" cx="119.35" cy="75.175" r="2.4761465"/>
 
-			<circle id="connector4vominus" fill="none" stroke="#FFBF00" stroke-width="1.4174" stroke-miterlimit="10" cx="119.35" cy="11.425" r="2"/>
+			<circle id="connector4vominus" fill="none" stroke="#FFBF00" stroke-width="1.79770732" stroke-miterlimit="10" cx="119.35" cy="11.425" r="2.4761465"/>
 
-			<circle id="connector5voplus" fill="none" stroke="#FFBF00" stroke-width="1.4174" stroke-miterlimit="10" cx="101.225" cy="11.425" r="2"/>
+			<circle id="connector5voplus" fill="none" stroke="#FFBF00" stroke-width="1.79770732" stroke-miterlimit="10" cx="101.225" cy="11.425" r="2.4761465"/>
 	</g>
 </g>
 </svg>
