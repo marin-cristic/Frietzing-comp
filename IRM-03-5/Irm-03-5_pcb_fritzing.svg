@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="svg3829" xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 118.35 77.513" width="118.35" height="77.513"
+	 xml:space="preserve">
+<desc  id="desc3">
+	<referenceFile>IRM-03-5_pcb.svg</referenceFile>
+</desc>
+<g transform="translate(0,-0.42519582)">
+	<g>
+		<g id="g7">
+			<g id="g9">
+				<g id="g11">
+					<g id="silkscreen">
+						<g id="text3355">
+							<g transform="matrix(1 0 0 1 19.726 57.0211)">
+								<g>
+									<text id="tspan3357" transform="matrix(1 0 0 1 2.4654 7.5528)" font-family="'OCRA'" font-size="6.378px">AC</text>
+								</g>
+							</g>
+						</g>
+						<g id="text10752">
+							<g transform="matrix(1 0 0 1 74.6214 17.9749)">
+								<g>
+									<text id="tspan10754" transform="matrix(1 0 0 1 9.3278 2.6722)" font-family="'OCRA'" font-size="6.378px">+Vo</text>
+								</g>
+							</g>
+						</g>
+						<g id="text10748">
+							<g transform="matrix(1 0 0 1 88.5849 17.9747)">
+								<g>
+									<text id="tspan10750" transform="matrix(1 0 0 1 11.0733 2.6714)" font-family="'OCRA'" font-size="6.378px">-Vo</text>
+								</g>
+							</g>
+						</g>
+						<g id="text10744">
+							<g transform="matrix(1 0 0 1 5.1865 57.0209)">
+								<g>
+									<text id="tspan10746" transform="matrix(1 0 0 1 0.648 7.552)" font-family="'OCRA'" font-size="6.378px">AC</text>
+								</g>
+							</g>
+						</g>
+						<g id="text10739">
+							<g transform="matrix(1 0 0 1 91.6865 56.7132)">
+								<g>
+									<text id="tspan10743" transform="matrix(1 0 0 1 11.461 7.515)" font-family="'OCRA'" font-size="6.378px">NC</text>
+								</g>
+							</g>
+						</g>
+
+							<rect id="rect3832" y="0.425" fill="none" stroke="#000000" stroke-width="0.3189" stroke-linejoin="round" stroke-miterlimit="1.4142" width="118.35" height="77.513"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="copper1">
+	<g id="copper0">
+
+			<circle id="connector1acn" fill="none" stroke="#FFBF00" stroke-width="1.2756" stroke-miterlimit="10" cx="25.875" cy="67.275" r="1.8"/>
+
+			<circle id="connector2acl" fill="none" stroke="#FFBF00" stroke-width="1.2756" stroke-miterlimit="10" cx="9.9" cy="67.275" r="1.8"/>
+
+			<circle id="connector3nc" fill="none" stroke="#FFBF00" stroke-width="1.2756" stroke-miterlimit="10" cx="107.55" cy="67.275" r="1.8"/>
+
+			<circle id="connector4vominus" fill="none" stroke="#FFBF00" stroke-width="1.2756" stroke-miterlimit="10" cx="107.55" cy="9.9" r="1.8"/>
+
+			<circle id="connector5voplus" fill="none" stroke="#FFBF00" stroke-width="1.2756" stroke-miterlimit="10" cx="91.237" cy="9.9" r="1.8"/>
+	</g>
+</g>
+</svg>
