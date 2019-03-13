@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 142 213.2"
+	 style="enable-background:new 0 0 142 213.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.2838;stroke-miterlimit:10;}
+	.st1{font-family:'OCRA';}
+	.st2{font-size:3.4092px;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.2835;}
+	.st4{font-size:3.4016px;}
+	.st5{fill:none;stroke:#000000;stroke-width:1.0807;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#F5BD18;stroke-width:1.7008;stroke-miterlimit:10;}
+</style>
+<desc>
+	<referenceFile>4-CHANNEL-RELAY_PCB_v2b.svg</referenceFile>
+</desc>
+<g id="silkscreen">
+	<rect y="0" class="st0" width="142" height="213.2"/>
+	<rect x="26.1" y="195" class="st0" width="15.9" height="7.1"/>
+	<rect x="7" y="124.5" class="st0" width="7.9" height="45.6"/>
+	<rect x="121.3" y="22.8" class="st0" width="8.1" height="35.6"/>
+	<rect x="121.3" y="64.8" class="st0" width="8.1" height="36.7"/>
+	<rect x="121.3" y="114.4" class="st0" width="8.1" height="35.6"/>
+	<rect x="121.3" y="155.1" class="st0" width="8.1" height="39.1"/>
+	<g>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 125.6467)" class="st1 st2">GND</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 125.6467)" class="st3 st1 st2">GND</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 132.9543)" class="st1 st2">IN1</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 132.9543)" class="st3 st1 st2">IN1</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 140.5706)" class="st1 st2">IN2</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 140.5706)" class="st3 st1 st2">IN2</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 148.4661)" class="st1 st2">IN3</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 148.4661)" class="st3 st1 st2">IN3</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 156.2092)" class="st1 st2">IN4</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 156.2092)" class="st3 st1 st2">IN4</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 163.7747)" class="st1 st2">VCC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 3.0078 163.7747)" class="st3 st1 st2">VCC</text>
+		<text transform="matrix(1.0022 0 0 1 26.0249 207.0315)" class="st1 st4">VCC</text>
+		<text transform="matrix(1.0022 0 0 1 26.0249 207.0315)" class="st3 st1 st4">VCC</text>
+		<text transform="matrix(1.0022 0 0 1 35.7104 207.0315)" class="st1 st4">JD-VCC</text>
+		<text transform="matrix(1.0022 0 0 1 35.7104 207.0315)" class="st3 st1 st4">JD-VCC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 40.6858)" class="st1 st2">K1</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 40.6858)" class="st3 st1 st2">K1</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 83.2053)" class="st1 st2">K2</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 83.2053)" class="st3 st1 st2">K2</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 130.3938)" class="st1 st2">K3</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 130.3938)" class="st3 st1 st2">K3</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 172.3469)" class="st1 st2">K4</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 116.3359 172.3469)" class="st3 st1 st2">K4</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 53.8586)" class="st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 53.8586)" class="st3 st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 25.512)" class="st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 25.512)" class="st3 st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 41.5989)" class="st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 41.5989)" class="st3 st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 96.3782)" class="st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 96.3782)" class="st3 st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 68.0315)" class="st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 68.0315)" class="st3 st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 84.1194)" class="st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 84.1194)" class="st3 st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 144.5823)" class="st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 144.5823)" class="st3 st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 116.2356)" class="st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 116.2356)" class="st3 st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 132.3225)" class="st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4512 132.3225)" class="st3 st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 186.5198)" class="st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 186.5198)" class="st3 st1 st2">NO</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 158.1731)" class="st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 158.1731)" class="st3 st1 st2">NC</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 174.26)" class="st1 st2">C</text>
+		<text transform="matrix(-1.346898e-10 0.9978 -1 -1.343903e-10 133.4492 174.26)" class="st3 st1 st2">C</text>
+	</g>
+	<ellipse class="st5" cx="8.9" cy="9.5" rx="4.6" ry="4.6"/>
+	<ellipse class="st5" cx="133.1" cy="9.5" rx="4.6" ry="4.6"/>
+	<ellipse class="st5" cx="133.1" cy="204.3" rx="4.6" ry="4.6"/>
+	<ellipse class="st5" cx="8.9" cy="204.3" rx="4.6" ry="4.6"/>
+</g>
+<g id="copper1">
+	<g id="copper0">
+		<ellipse id="connector8pad" class="st6" cx="11" cy="129" rx="2.3" ry="2.3"/>
+		<ellipse id="connector9pad" class="st6" cx="11" cy="136.1" rx="2.3" ry="2.3"/>
+		<ellipse id="connector10pin" class="st6" cx="11" cy="143.4" rx="2.3" ry="2.3"/>
+		<ellipse id="connector11pin" class="st6" cx="11" cy="150.6" rx="2.3" ry="2.3"/>
+		<ellipse id="connector12pin" class="st6" cx="11" cy="157.8" rx="2.3" ry="2.3"/>
+		<ellipse id="connector13pin" class="st6" cx="11" cy="165" rx="2.3" ry="2.3"/>
+		<ellipse id="connector15pin" class="st6" cx="37.6" cy="198.6" rx="2.3" ry="2.3"/>
+		<ellipse id="connector14pin" class="st6" cx="30.4" cy="198.6" rx="2.3" ry="2.3"/>
+		<ellipse id="connector16pin" class="st6" cx="125" cy="26.5" rx="2.3" ry="2.3"/>
+		<ellipse id="connector17pin" class="st6" cx="125" cy="41.7" rx="2.3" ry="2.3"/>
+		<ellipse id="connector18pin" class="st6" cx="125" cy="54.8" rx="2.3" ry="2.3"/>
+		<ellipse id="connector19pin" class="st6" cx="125" cy="69" rx="2.3" ry="2.3"/>
+		<ellipse id="connector20pin" class="st6" cx="125" cy="84.2" rx="2.3" ry="2.3"/>
+		<ellipse id="connector21pin" class="st6" cx="125" cy="97.4" rx="2.3" ry="2.3"/>
+		<ellipse id="connector22pin" class="st6" cx="125" cy="118.8" rx="2.3" ry="2.3"/>
+		<ellipse id="connector23pin" class="st6" cx="125" cy="132.4" rx="2.3" ry="2.3"/>
+		<ellipse id="connector24pin" class="st6" cx="125" cy="146" rx="2.3" ry="2.3"/>
+		<ellipse id="connector25pin" class="st6" cx="125" cy="159.6" rx="2.3" ry="2.3"/>
+		<ellipse id="connector26pin" class="st6" cx="125" cy="174.3" rx="2.3" ry="2.3"/>
+		<ellipse id="connector27pin" class="st6" cx="125" cy="189.6" rx="2.3" ry="2.3"/>
+	</g>
+</g>
+</svg>
